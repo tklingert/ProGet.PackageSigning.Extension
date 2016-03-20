@@ -37,44 +37,44 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Brutal.Dev.StrongNameSigner">
-      <HintPath>..\..\..\..\..\..\packages\Signature.Core.1.0.1.0\lib\net45\Brutal.Dev.StrongNameSigner.dll</HintPath>
+      <HintPath>..\..\packages\Signature.Core.1.0.1.0\lib\net45\Brutal.Dev.StrongNameSigner.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="InedoLib">
-      <HintPath>..\..\..\..\..\..\packages\Inedo.ProGet.SDK.4.0.0\lib\net45\InedoLib.dll</HintPath>
+      <HintPath>..\..\packages\Inedo.ProGet.SDK.4.0.0\lib\net45\InedoLib.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.Web.XmlTransform">
-      <HintPath>..\..\..\..\..\..\packages\Microsoft.Web.Xdt.2.1.1\lib\net40\Microsoft.Web.XmlTransform.dll</HintPath>
+      <HintPath>..\..\packages\Microsoft.Web.Xdt.2.1.1\lib\net40\Microsoft.Web.XmlTransform.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>..\..\..\..\..\..\packages\Mono.Cecil.0.9.5.4\lib\net40\Mono.Cecil.dll</HintPath>
+      <HintPath>..\..\packages\Mono.Cecil.0.9.5.4\lib\net40\Mono.Cecil.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Mono.Cecil.Mdb">
-      <HintPath>..\..\..\..\..\..\packages\Mono.Cecil.0.9.5.4\lib\net40\Mono.Cecil.Mdb.dll</HintPath>
+      <HintPath>..\..\packages\Mono.Cecil.0.9.5.4\lib\net40\Mono.Cecil.Mdb.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Mono.Cecil.Pdb">
-      <HintPath>..\..\..\..\..\..\packages\Mono.Cecil.0.9.5.4\lib\net40\Mono.Cecil.Pdb.dll</HintPath>
+      <HintPath>..\..\packages\Mono.Cecil.0.9.5.4\lib\net40\Mono.Cecil.Pdb.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Mono.Cecil.Rocks">
-      <HintPath>..\..\..\..\..\..\packages\Mono.Cecil.0.9.5.4\lib\net40\Mono.Cecil.Rocks.dll</HintPath>
+      <HintPath>..\..\packages\Mono.Cecil.0.9.5.4\lib\net40\Mono.Cecil.Rocks.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="NuGet.Core, Version=2.8.50506.491, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\packages\NuGet.Core.2.8.2\lib\net40-Client\NuGet.Core.dll</HintPath>
+      <HintPath>..\..\packages\NuGet.Core.2.8.2\lib\net40-Client\NuGet.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="ProGetCore">
-      <HintPath>..\..\..\..\..\..\packages\Inedo.ProGet.SDK.4.0.0\lib\net45\ProGetCore.dll</HintPath>
+      <HintPath>..\..\packages\Inedo.ProGet.SDK.4.0.0\lib\net45\ProGetCore.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Signature.Core">
-      <HintPath>..\..\..\..\..\..\packages\Signature.Core.1.0.1.0\lib\net45\Signature.Core.dll</HintPath>
+      <HintPath>..\..\packages\Signature.Core.1.0.1.0\lib\net45\Signature.Core.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="System" />
