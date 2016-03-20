@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/od6bnkdvpib2hrue/branch/master?svg=true)](https://ci.appveyor.com/project/tklingert/proget-packagesigning-extension/branch/master)
+ 
 # ProGet - Package Signing Extension
 
 The ProGet extensions integrates automatic NuGet package signing/strong naming into ProGet feeds via [feed adapters](http://inedo.com/support/sdk-reference/proget/Inedo.ProGet.Extensibility.Adapters).
